@@ -1,0 +1,135 @@
+*{
+    padding: o;
+    margin: 0;
+    box-sizing: border-box;
+    
+    }
+    .cuntener{
+        width: 1200px;
+        box-sizing: border-box;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+    .heder{
+        width: 100%;
+        height: 150px;
+        box-sizing: border-box;
+
+    }
+    .logo{
+        width: 20%;
+        height: 150px;
+        box-sizing: border-box;
+        float: left;
+        background-color: brown;
+
+
+    }
+    .logo h1{
+        text-align: center;
+        padding-top: 30px;
+    }
+    
+    .sitebur{
+        width: 80%;
+        background-color: aqua;
+        height: 150px;
+        float: right;
+        box-sizing: border-box;
+
+    }
+    .sitebur h1{
+        text-align: center;
+        padding-top: 30px;
+    }
+    .Menu{
+        width: 100%;
+        height: 150px;
+        background-color: chartreuse;
+    }
+.Menu h1{
+    text-align: center;
+    padding-top: 70px;
+    
+}
+
+
+    .section{
+        width: 100%;
+        height: auto;
+        box-sizing: border-box;
+    }
+    .section1{
+       width:33.3333333%;
+       height: 200px;
+       float: left;
+       background-color: rgba(255, 0, 13, 0.945);
+    }
+    .section2{
+      width:33.3333333%;
+      height: 200px;
+      float: right;
+      background-color: cyan;
+    }
+   .section3{
+     width: 33.3333333;
+     height: 200px;
+     background-color: darkslateblue;
+   }
+
+.section1 h3{
+    text-align: center;
+    padding-top: 80px;
+}
+.section2 h3{
+    text-align: center;
+    padding-top: 80px;
+}
+.section3 h3{
+    text-align: center;
+    padding-top: 80px;
+}
+
+
+   .box{
+       width: 100%;
+       height: 400px;
+       box-sizing: border-box;
+   }
+   .box1{
+       width: 67%;
+       height: 400px;
+       float: left;
+       background-color: turquoise;
+
+
+   }
+   .box1 h1{
+    text-align: center;
+    padding-top: 200px;
+   }
+   .box2{
+       width: 33%;
+       height: 400px;
+       float: right;
+       background-color: yellow;
+   }
+   .box2 h2{
+     text-align: center;
+   padding-top: 200px;
+
+   }
+
+   .footer{
+       width: 100%;
+       height: 100px;
+       box-sizing: border-box;
+       background-color: tomato;
+       margin-bottom: 50px;
+   }
+   .footer h1{
+   text-align: center;
+   padding-top: 35px;
+   }
